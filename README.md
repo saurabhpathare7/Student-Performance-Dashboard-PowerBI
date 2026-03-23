@@ -36,7 +36,8 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshot here after uploading image)*
+<img width="1079" height="600" alt="Student_Dashborad_" src="https://github.com/user-attachments/assets/1cb7307a-a924-4c8c-9175-3e5c3d591b95" />
+
 
 ---
 
