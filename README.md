@@ -61,3 +61,7 @@ This dashboard helps in better decision-making by providing clear insights into 
 ## 🔗 Author
 **Saurabh Pathare**  
 Aspiring Data Analyst | Power BI Developer
+
+
+<img width="1935" height="1080" alt="WhatsApp Image 2026-04-29 at 1 46 10 PM" src="https://github.com/user-attachments/assets/d05a7147-4c1d-457a-8fbb-292ea04db1a4" />
+
